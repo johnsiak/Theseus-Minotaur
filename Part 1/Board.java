@@ -1,8 +1,3 @@
-/*Ioannis Siakavaras, 10053, siakavari@ece.auth.gr
-  Christoforos Chatziantoniou, 10258, cchristofo@ece.auth.gr
-  Team 186
- */
-
 public class Board {
 	
 	private int N;				//the dimension of the labyrinth
