@@ -1,8 +1,3 @@
-/*Ioannis Siakavaras, 10053, 6946937774, siakavari@ece.auth.gr
-  Christoforos Chatziantoniou, 10258, 6946495698, cchristofo@ece.auth.gr
-  Team 186
- */
-
 public class Game {
 
 	private static int round;	//the round of the game, we define it as static so that we can use this in main
