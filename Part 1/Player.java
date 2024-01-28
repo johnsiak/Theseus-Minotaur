@@ -1,8 +1,3 @@
-/*Ioannis Siakavaras, 10053, 6946937774, siakavari@ece.auth.gr
-  Christoforos Chatziantoniou, 10258, 6946495698, cchristofo@ece.auth.gr
-  Team 186
- */
-
 public class Player {
 	private int playerId;	//the id of the player, 1 for Theseus and 2 for Minautor
 	private String name;	//the name of the player
