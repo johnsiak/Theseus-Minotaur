@@ -1,8 +1,3 @@
-/*Ioannis Siakavaras, 10053, 6946937774, siakavari@ece.auth.gr
-  Christoforos Chatziantoniou, 10258, 6946495698, cchristofo@ece.auth.gr
-  Team 186
- */
-
 public class Supply {
 	
 	private int supplyId; 	   //the id of the supply that ranges from 1 to S ( [1, S], where S the number of the supplies)
