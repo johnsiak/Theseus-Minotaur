@@ -1,8 +1,3 @@
-/*Ioannis Siakavaras, 10053, 6946937774, siakavari@ece.auth.gr
-  Christoforos Chatziantoniou, 10258, 6946495698, cchristofo@ece.auth.gr
-  Team 186
- */
-
 public class Tile {
 
 	private int tileId;		//the id of the tile that ranges from 0 to N * N-1 ( [0, N * N) , N the size of the board)
